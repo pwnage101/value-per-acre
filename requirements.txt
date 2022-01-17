@@ -1,0 +1,6 @@
+jupyter
+geopandas
+matplotlib
+
+#rtree
+pygeos
