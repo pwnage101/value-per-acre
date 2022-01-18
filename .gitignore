@@ -1,0 +1,10 @@
+*_data/downloads/*.zip
+*_data/shapefiles/**/
+working_layers/*.cpg
+working_layers/*.dbf
+working_layers/*.prj
+working_layers/*.shp
+working_layers/*.shx
+
+.ipynb_checkpoints/
+.python-version
