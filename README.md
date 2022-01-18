@@ -1,8 +1,12 @@
 # Value per Acre analysis of San Diego County
 
+This is a WORK IN PROGRESS.  In its current form, there is not yet any value-per-acre analysis since that relies on tax roll data which I do not yet have.
+
 ## Renders
 
 ### Price Per Living Square Foot
+
+I made these just to experiment with colormaps.  They plot the price per "living" area of each parcel, where the living area is defined as the indoor space used for living, which would exclude things like garages, but for the most part include all air conditioned space.
 
 ![Price per living area in CB](renders/price_per_living_area_CB.jpg)
 ![Price per living area in CO](renders/price_per_living_area_CO.jpg)
