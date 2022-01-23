@@ -7,7 +7,9 @@ most part include all air conditioned space.
 
 ![Price per living area in CB](renders/price_per_living_area_CB.jpg)
 ![Price per living area in CO](renders/price_per_living_area_CO.jpg)
+![Price per living area in CV_denser_suburb](renders/price_per_living_area_CV_denser_suburb.jpg)
 ![Price per living area in CV](renders/price_per_living_area_CV.jpg)
+![Price per living area in CV_west](renders/price_per_living_area_CV_west.jpg)
 ![Price per living area in DM](renders/price_per_living_area_DM.jpg)
 ![Price per living area in EC](renders/price_per_living_area_EC.jpg)
 ![Price per living area in EN](renders/price_per_living_area_EN.jpg)
