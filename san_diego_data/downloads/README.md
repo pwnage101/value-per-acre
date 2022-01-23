@@ -1,6 +1,6 @@
 This directory should contain zip files downloaded from various municipal or state websites containing GIS or other tabular data.
 
-Data that I used:
+## Data that I used:
 
 * San Diego shapefiles are available for free at https://rdw.sandag.org/
   * I didn't include these in the repository because I didn't want to risk copyright infringement, but you can easily
@@ -22,7 +22,7 @@ Data that I used:
   * This is a custom polygon representing the pacific ocean just off the southern california coast which I adapted from
     Shoreline Mapping Program CA1101A data, found at: https://www.ngs.noaa.gov/NSDE/
 
-Data that I did not use:
+## Data that I did NOT use:
 
 * San Diego Tax Roll data files, $86. see https://www.sandiegocounty.gov/content/sdc/auditor/trdf.html
   * I used to be under the impression that I needed this data based on this [forum post from the Strong Town San Diego
