@@ -2,7 +2,7 @@ This directory should contain zip files downloaded from various municipal or sta
 
 ## Data that I used:
 
-* San Diego shapefiles are available for free at https://rdw.sandag.org/
+* SanGIS shapefiles are available for free at https://rdw.sandag.org/
   * I didn't include these in the repository because I didn't want to risk copyright infringement, but you can easily
     create an account and download the data for free.  I did, however, include the PDF documentation for the shapefile
     layers.
