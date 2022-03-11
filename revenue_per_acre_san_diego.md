@@ -41,6 +41,10 @@ from the source.  Some of these issues include, but are not limited to:
   consideration.  This is a non-trivial problem to solve because often there is
   no clue in the data which can help to automatically correlate the big box store
   with the parking lot.
+* Parcels located near the ocean are consistently valued higher due to demand to live
+  near the beach.  However, this has nothing to do with identifying financially solvent
+  development patterns.  A given development pattern which is currently located near the
+  shoreline and is financially solvent would probably be less profitable if located elsewhere. 
 
 ## Plots
 
