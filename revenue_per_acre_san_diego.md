@@ -21,6 +21,13 @@ joining the parcel data together with [Tax Rate Area (TRA) data](https://www.san
 There are still deficiencies in my processing steps, as well as missing data
 from the source.  Some of these issues include, but are not limited to:
 
+* California Proposition 13 is the biggest issue with the data.  Fixed assessment
+  values has led to excessive noise in the coloring, especially in older areas where
+  the extent of property assessment dates extends over many decades.  One parcel
+  could be assessed at $40k. while an adjacent parcel could be $800k, despite both
+  parcels having the same area.  This doesn't just add noise, but I believe that it
+  causes newer suburban developments to become overvalued in the output plot relative
+  to older urban developments.
 * Several parcels share identical geometries when the owner is leasing
   subdivisions of the parcel to other entities (e.g. UCSD leasing a lot on
   campus to Target), which currently show up as zero (black color).
