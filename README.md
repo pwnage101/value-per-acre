@@ -27,5 +27,4 @@ comparison.
 
 Click on any of the following to view all plots produced by this project:
 
-* [San Diego County: Tax Revenue Per Acre](revenue_per_acre_san_diego.md)
-* [San Diego County: Price Per Living Square Foot](price_per_living_area_san_diego.md)
+* [San Diego County: Tax Revenue Per Acre](san_diego/revenue_per_acre_san_diego.md)
